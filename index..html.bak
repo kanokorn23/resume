@@ -52,7 +52,7 @@
       <div class="row">
         <div class="row">
           <div class="col-md-6">
-            <div align="center"><img alt="proflie" src="images/IMG_E9083.JPG" class="rounded-circle"
+            <div align="center"><img alt="proflie" src="images/kanok.jpg" class="rounded-circle"
 
                 style="width: 300px; height: 300px;"> </div>
             <br>
@@ -77,10 +77,10 @@
 
                 style="width: 70px; height: 70px;"> 091-599-6298 <br>
               <img src="images/envelope-circle-fill-svgrepo-com%20%281%29.png" style="width: 70px; height: 70px;">
-              <a href="" target="_blank" class="pwhite">nacharoen_k2@.silpakorn.edu</a>
+              <a class="pwhite" href="mailto:nacharoen_k2@.silpakorn.edu" target="_blank">nacharoen_k2@.silpakorn.edu</a>
               <br>
               <img src="images/link-circle-fill-svgrepo-com.png" alt="" style="width: 70px; height: 70px;">
-              www.<br>
+              https://kanokorn23.github.io/resume/<br>
               <img src="images/flag-circle-fill-svgrepo-com.png" alt="" style="width: 70px; height: 70px;">
               109/210 Bangpla Sub-District, Bangphli District, Samutprakarn,
               10540 </p>
