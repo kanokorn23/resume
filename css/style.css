@@ -1,0 +1,39 @@
+.mybg{
+  background-color: black;
+}
+
+p{
+  color: #FFFFFF;
+  font-family: 'Prompt', sans-serif;
+}
+
+.pwhite{
+  color: #FFFFFF;
+  font-family: 'Prompt', sans-serif;
+}
+
+.mygreen{
+  color: #C5FF00;
+  font-family: 'Prompt', sans-serif;
+}
+
+h1{
+  color: #C5FF00;
+  font-family: 'Dela Gothic One', cursive;
+}
+
+h3{
+  background-color: #C5FF00;
+  color: black;
+  font-family: 'Dela Gothic One', cursive;
+}
+
+h2{
+  color: #C5FF00;
+  font-family: 'Prompt', sans-serif;
+}
+
+h5{
+  color: #C5FF00;
+  font-family: 'Prompt', sans-serif;
+}
